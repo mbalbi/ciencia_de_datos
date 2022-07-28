@@ -1,4 +1,8 @@
 # Ciencia de Datos en Ingeniería Civil
+Docentes:
+- Mariano Balbi (mabalbi@fi.uba.ar)
+- Santiago Bertero (sbertero@fi.uba.ar)
+- Llamell Martínez Gorbik (lamartinez@fi.uba.ar)
 
 Departamento de Estabilidad, FIUBA
 
