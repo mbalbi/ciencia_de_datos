@@ -23,4 +23,3 @@ Departamento de Estabilidad, FIUBA
 
 ### Trabajos Prácticos
 
-1. [TP1: XXXX]()
