@@ -12,7 +12,6 @@ Docentes:
 
 1. [Intro a Python y Colab](notebooks/practica_1.ipynb)
 
-
 ### Material accesorio
 
 - [Python basics](https://colab.research.google.com/github/data-psl/lectures2020/blob/master/notebooks/01_python_basics.ipynb#scrollTo=UhcbBQUiStHG)
