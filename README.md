@@ -5,7 +5,7 @@ Docentes:
 - Mariano Balbi (mabalbi@fi.uba.ar)
 - Santiago Bertero (sbertero@fi.uba.ar)
 - Llamell Martínez Gorbik (lamartinez@fi.uba.ar)
----
+
 ## Tabla de contenidos
 
 ### Clases prácticas
