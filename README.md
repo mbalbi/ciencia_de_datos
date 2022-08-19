@@ -14,6 +14,8 @@ Departamento de Estabilidad, FIUBA
 2. [Probabilidad y variables aleatorias](notebooks/practica_2.ipynb)
 3. [Exploración de datos](notebooks/practica_3.ipynb)
 4. [Introducción a la inferencia estadística](notebooks/practica_4.ipynb)
+5. Modelos de regresión
+6. 
 
 ### Material accesorio
 
