@@ -12,7 +12,7 @@ Docentes:
 
 1. [Intro a Python y Colab](notebooks/practica_1.ipynb)
 2. Probabilidad y variables aleatorias
-3. xploración de datos
+3. Exploración de datos
 4. Introducción a la inferencia estadística
 5. Modelos de regresión
 6. 
