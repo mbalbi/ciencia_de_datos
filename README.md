@@ -11,8 +11,8 @@ Departamento de Estabilidad, FIUBA
 ### Clases prácticas
 
 1. [Intro a Python y Colab](notebooks/practica_1.ipynb)
-2. [Probabilidad y variables aleatorias](notebooks/practica_2.ipynb)
-3. [Exploración de datos](notebooks/practica_3.ipynb)
+%2. [Probabilidad y variables aleatorias](notebooks/practica_2.ipynb)
+%3. [Exploración de datos](notebooks/practica_3.ipynb)
 4. [Introducción a la inferencia estadística](notebooks/practica_4.ipynb)
 
 ### Material accesorio
