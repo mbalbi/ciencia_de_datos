@@ -11,6 +11,7 @@ Docentes:
 ### Clases prácticas
 
 1. [Intro a Python y Colab](notebooks/practica_1.ipynb)
+2. [Probabilidad y Variables Aleatorias](notebooks/practica_2.ipynb)
 
 ### Material accesorio
 
