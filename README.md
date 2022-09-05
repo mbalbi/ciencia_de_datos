@@ -16,7 +16,7 @@ Docentes:
 
 ### Trabajos Prácticos
 
-1. [TP1](tps/trabajo_practica_1.ipynb)
+1. [TP1](tps/trabajo_practico_1.ipynb)
 
 ### Material accesorio
 
