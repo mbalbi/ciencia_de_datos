@@ -14,6 +14,10 @@ Docentes:
 2. [Probabilidad y Variables Aleatorias](notebooks/practica_2.ipynb)
 3. [Adquisición y procesamiento de datos](notebooks/practica_3.ipynb)
 
+### Trabajos Prácticos
+
+1. [TP1](tps/trabajo_practica_1.ipynb)
+
 ### Material accesorio
 
 - [Python basics](https://colab.research.google.com/github/data-psl/lectures2020/blob/master/notebooks/01_python_basics.ipynb#scrollTo=UhcbBQUiStHG)
