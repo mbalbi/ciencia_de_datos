@@ -13,8 +13,8 @@ Docentes:
 1. [Intro a Python y Colab](notebooks/practica_1.ipynb)
 2. [Probabilidad y Variables Aleatorias](notebooks/practica_2.ipynb)
 3. [Adquisición y procesamiento de datos](notebooks/practica_3.ipynb)
-4. [Ajuste de funciones de distribución](notebooks/practica_4.ipynb)
-5. [Ajuste de funciones de distribución](notebooks/practica_5.ipynb)
+4. [Ajuste de funciones de distribución (analítico)](notebooks/practica_4.ipynb)
+5. [Ajuste de funciones de distribución (computacional)](notebooks/practica_5.ipynb)
 
 ### Trabajos Prácticos
 
