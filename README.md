@@ -17,6 +17,7 @@ Docentes:
 5. [Ajuste de funciones de distribución (computacional)](notebooks/practica_5.ipynb)
 6. [El modelo de regresión Normal lineal p1](notebooks/practica_6.ipynb)
 7. [El modelo de regresión Normal lineal p2](notebooks/practica_7.ipynb)
+8. [Selección de modelos](notebooks/practica_8.ipynb)
 
 ### Trabajos Prácticos
 
