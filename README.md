@@ -18,7 +18,8 @@ Docentes:
 6. [El modelo de regresión Normal lineal p1](notebooks/practica_6.ipynb)
 7. [El modelo de regresión Normal lineal p2](notebooks/practica_7.ipynb)
 8. [Selección de modelos](notebooks/practica_8.ipynb)
-9. [Modelos lineales generalizados](notebooks/practica_9.ipynb)
+9. [Modelos lineales generalizados p1](notebooks/practica_9.ipynb)
+10. [Modelos lineales generalizados p2](notebooks/practica_10.ipynb)
 
 ### Trabajos Prácticos
 
