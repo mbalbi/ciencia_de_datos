@@ -20,6 +20,7 @@ Docentes:
 8. [Selección de modelos](notebooks/practica_8.ipynb)
 9. [Modelos lineales generalizados p1](notebooks/practica_9.ipynb)
 10. [Modelos lineales generalizados p2](notebooks/practica_10.ipynb)
+11. [Modelos no-paramétricos p1: procesos Gaussianos](notebooks/practica_11.ipynb)
 
 ### Trabajos Prácticos
 
