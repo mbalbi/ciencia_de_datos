@@ -28,6 +28,7 @@ Docentes:
 1. [TP1](tps/trabajo_practico_1.ipynb)
 2. [TP2](tps/trabajo_practico_2.ipynb)
 3. [TP3](tps/trabajo_practico_3.ipynb)
+4. [TP4](tps/trabajo_practico_4.ipynb)
 
 ### Material accesorio
 
