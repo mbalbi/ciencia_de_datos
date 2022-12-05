@@ -22,6 +22,7 @@ Docentes:
 10. [Modelos lineales generalizados p2](notebooks/practica_10.ipynb)
 11. [Modelos no-paramétricos p1: procesos Gaussianos](notebooks/practica_11.ipynb)
 13. [Modelos físicos y metamodelos](notebooks/practica_13.ipynb)
+14. [Identificabilidad de parámetos y análisis de sensibilidad](notebooks/practica_14.ipynb)
 
 ### Trabajos Prácticos
 
